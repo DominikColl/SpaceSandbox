@@ -4,3 +4,6 @@
     color: white;
     display: inline-block;
 }
+.hide{
+    display: none;
+}
